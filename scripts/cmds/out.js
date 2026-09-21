@@ -5,7 +5,7 @@ const request = require("request");
 module.exports = {
   config: {
     name: "leave",
-    aliases: ["zxcvbnm", "zxcvbnm"],
+    aliases: ["out", "out"],
     version: "1.2",
     author: "Sandy/fixed Milon",
     countDown: 5,
